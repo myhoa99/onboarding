@@ -1,0 +1,8 @@
+exclude:
+  - .env
+  - .env.dev
+include:
+  - "assets/png/*.png"
+  - "assets/svg/*.svg"
+  - "assets/gif/*.gif"
+  - "assets/anim/*.json"
